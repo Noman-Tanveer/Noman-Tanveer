@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **System Design**
 
-- 👯 I’m looking to collaborate on **Solving hard leetcode problems :D**
+- 👯 I’m looking to collaborate on **Solving hard leetcode problems :sweat_smile:**
 
-- 📝 I regularly write articles on [https://medium.com/@nomantanveer021](https://medium.com/@nomantanveer021)
+- 📝 I regularly write articles on [Medium](https://medium.com/@nomantanveer021)
 
 - 💬 Ask me about **Deep Learning, Generative Models and Diffusion Models**
 
