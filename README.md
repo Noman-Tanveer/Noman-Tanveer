@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **nomantanveer021@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RiPVaEUybsucxJrwEKlKrok4TpbJZ7jw/view?usp=sharing](https://drive.google.com/file/d/1RiPVaEUybsucxJrwEKlKrok4TpbJZ7jw/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RiPVaEUybsucxJrwEKlKrok4TpbJZ7jw/view?usp=sharing)
 
 - ⚡ Fun fact **Going to the sun is harder than going to Pluto**
 
@@ -30,7 +30,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/noman tanveer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noman tanveer" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/noman tanveer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="noman tanveer" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/user:11008364" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="noman tanveer" height="30" width="40" /></a>
 <a href="https://medium.com/@noman tanveer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@noman tanveer" height="30" width="40" /></a>
 </p>
 
