@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noman Tanveer</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 
-- 🔭 I’m currently working on **Document Image Generation**
+- 🔭 I’m currently working on **Controlled Image Generation for Architecture**
 
 - 🌱 I’m currently learning **System Design**
 
