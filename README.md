@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **System Design**
 
-- 👯 I’m looking to collaborate on **Solving hard leetcode problems :sweat_smile:**
+- 👯 I’m looking to collaborate on **Solving leetcode problems :sweat_smile:**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@nomantanveer021)
 
-- 💬 Ask me about **Deep Learning, Generative Models and Diffusion Models**
+- 💬 Ask me about **Deep Learning, LLMs and Diffusion Models**
 
 - 📫 How to reach me **nomantanveer021@gmail.com**
 
