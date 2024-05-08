@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Noman Tanveer</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 
-- 🔭 I’m currently working on **Controlled Image Generation for Architecture**
+- 🔭 I’m currently working on **RAG LLM apps**
 
-- 🌱 I’m currently learning **System Design**
-
-- 👯 I’m looking to collaborate on **Solving leetcode problems :sweat_smile:**
+- 🌱 I’m currently learning **LLM**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@nomantanveer021)
 
